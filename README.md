@@ -5,7 +5,7 @@
 
 # 👋 Hi, I'm Fayzan!
 
-🚀 Aspiring Programmer | 💡 AI/ML Learner | 💻 Full Stack Developer
+🚀 Aspiring Programmer | 💡 AI/ML  | 💻 Full Stack Developer
 
 Aspiring programmer passionate about building intelligent systems, currently exploring the world of AI and Machine Learning.
 
